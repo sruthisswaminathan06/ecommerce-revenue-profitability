@@ -1,4 +1,5 @@
 📊 E-commerce Revenue & Profitability Analysis
+
 🚀 Project Overview
 Welcome to the E-commerce Analytics SQL Project!
 This project is designed to help businesses uncover insights from their sales data using SQL queries. From revenue trends to customer segmentation, this analysis provides a solid foundation for data-driven decision-making.
